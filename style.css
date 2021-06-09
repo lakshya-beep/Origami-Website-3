@@ -10,6 +10,10 @@ margin-right: 100%;
 size: 10%;
 }
 
+.aboutandfrom{
+
+    margin-left: 85%;
+}
 .Texter{
 color:#0015ff;
     text-decoration-color: aqua;
@@ -55,9 +59,9 @@ opacity: 0;
     }
     
 a:link{
-color: #ff8585;
+color: #000000;
 }
 
 a:visited{
-color: #ff8585;
+color: #000000;
 }
